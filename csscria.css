@@ -5,13 +5,10 @@
     color: white;
 }
 
-.fontecria {
-    font-family: 'Megrim', cursive;
-    color: white;
-}
-
 input {
     font-family: 'Megrim', cursive;
+    font-size: 50px;
+    border-radius: 50px 50px 50px 50px;
 }
 
 body{
@@ -20,4 +17,31 @@ body{
 
 #corcria {
     font-family: 'Megrim', cursive;
+    font-size: 50px;
+}
+
+.cuidado {
+    font-family: 'Megrim', cursive;
+    color: red;
+}
+
+.safe {
+    font-family: 'Megrim', cursive;
+    color: green;
+}
+
+.cuidadin {
+    font-family: 'Megrim', cursive;
+    color: yellow;
+}
+
+.main {
+    font-size: 50px;
+    width: 600px;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    border: 10px solid red;
+    border-radius: 100px 100px 100px 100px;
+    box-shadow: 10px 10px 100px gray;
 }
